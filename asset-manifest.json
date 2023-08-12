@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/consultancy-ui/static/css/main.0fe1d56c.chunk.css",
+    "main.js": "/consultancy-ui/static/js/main.ef436653.chunk.js",
+    "main.js.map": "/consultancy-ui/static/js/main.ef436653.chunk.js.map",
+    "runtime-main.js": "/consultancy-ui/static/js/runtime-main.c0e4e7d7.js",
+    "runtime-main.js.map": "/consultancy-ui/static/js/runtime-main.c0e4e7d7.js.map",
+    "static/css/2.0c6733b3.chunk.css": "/consultancy-ui/static/css/2.0c6733b3.chunk.css",
+    "static/js/2.63c9e6a2.chunk.js": "/consultancy-ui/static/js/2.63c9e6a2.chunk.js",
+    "static/js/2.63c9e6a2.chunk.js.map": "/consultancy-ui/static/js/2.63c9e6a2.chunk.js.map",
+    "index.html": "/consultancy-ui/index.html",
+    "static/css/2.0c6733b3.chunk.css.map": "/consultancy-ui/static/css/2.0c6733b3.chunk.css.map",
+    "static/css/main.0fe1d56c.chunk.css.map": "/consultancy-ui/static/css/main.0fe1d56c.chunk.css.map",
+    "static/js/2.63c9e6a2.chunk.js.LICENSE.txt": "/consultancy-ui/static/js/2.63c9e6a2.chunk.js.LICENSE.txt",
+    "static/media/1.371fe320.jpg": "/consultancy-ui/static/media/1.371fe320.jpg",
+    "static/media/operator.fef7f29a.png": "/consultancy-ui/static/media/operator.fef7f29a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0e4e7d7.js",
+    "static/css/2.0c6733b3.chunk.css",
+    "static/js/2.63c9e6a2.chunk.js",
+    "static/css/main.0fe1d56c.chunk.css",
+    "static/js/main.ef436653.chunk.js"
+  ]
+}
