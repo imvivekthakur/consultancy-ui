@@ -36,10 +36,9 @@ function Footer() {
           </div>
           <div className="col-md-2">
             <ul className="alignList">
-              <li><a href="/">LinkedIn</a> </li>
-              <li><a href="/">Github</a> </li>
-              <li><a href="/">Instagram</a> </li>
-              <li><a href="/">Resume</a> </li>
+              <li><a href="https://www.linkedin.com/in/imvivekthakur/">LinkedIn</a> </li>
+              <li><a href="https://github.com/imvivekthakur">Github</a> </li>
+              <li><a href="https://drive.google.com/file/d/1SAsogUlrMQJq-GcN_wNsyMQM82c0SEjG/view?usp=drive_link">Resume</a> </li>
             </ul>
           </div>
         </div>
